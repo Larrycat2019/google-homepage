@@ -1,0 +1,1 @@
+This will be my first real project. I have had nearly 2 weeks away from coding so am having to learn everything from the beginning again. I am hoping to improve my skills with the command line, use of github, html and css. I am expecting to improve my problem solving skills, patience and focus.
